@@ -1,0 +1,23 @@
+{
+  "name": "DrinkBot",
+  "version": "1.0.0",
+  "description": "A cocktail mixing machine driven by a Rasberry PI and lots of pumps and tubes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kronosgreen/DrinkBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kronosgreen/DrinkBot/issues"
+  },
+  "homepage": "https://github.com/kronosgreen/DrinkBot#readme",
+  "devDependencies": {
+    "laravel-mix": "^4.1.2"
+  }
+}
